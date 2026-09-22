@@ -1,0 +1,26 @@
+{
+  "id": "ad-product-taxonomy-2.0",
+  "description": "Short sentences summarizing an ad creative's product. Goal: infer the ad product taxonomy path.",
+  "inputs": [
+    {
+      "id": "ad-1",
+      "text": "Secure email service with privacy features"
+    },
+    {
+      "id": "ad-2",
+      "text": "Luxury SUVs with advanced performance and stylish design"
+    },
+    {
+      "id": "ad-3",
+      "text": "Spin to win free spins or cash prizes"
+    },
+    {
+      "id": "ad-4",
+      "text": "Discreet hearing aids for seniors that improve hearing"
+    },
+    {
+      "id": "ad-5",
+      "text": "Nutritional supplement with cappuccino flavor for mornings"
+    }
+  ]
+}
